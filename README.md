@@ -1,12 +1,2 @@
-# collab-text
-A live, collaborative text editor packaged as a desktop App.
-Technologies used:
--React
--Passport for user authentication
--Node
--Express
--Electron to package as desktop application
--MongoDB through mongoose
--babel
--socket.io
--draftjs for rich text formatting
+# multiEdit
+A collaborative rich‐text editing desktop application allowing users to create, view, edit, and share documents. Edits are visible to all collaborators in real time.
